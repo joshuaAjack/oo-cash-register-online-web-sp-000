@@ -10,6 +10,7 @@ def add_item
   self.price +=1
 end
 def apply_discount 
+  20.0.class
 end 
 def items 
 end 
